@@ -1,4 +1,4 @@
-# Project Summary / Note
+# Project Summary
 ## Employee Turnover Prediction Using Machine Learning
 
 This project develops an end-to-end machine learning pipeline to predict employee turnover and identify key factors influencing attrition.
