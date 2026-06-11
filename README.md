@@ -11,6 +11,47 @@ This project develops an end-to-end machine learning pipeline to predict employe
   - 15 workforce-related features
   - Binary target variable: Employee Turnover (Yes/No)
 
+## Skills Demonstrated
+### Technical Skills
+  - Python Programming
+  - Data Analysis & Data Cleaning
+  - Exploratory Data Analysis (EDA)
+  - Feature Engineering
+  - Data Visualization
+  - Statistical Analysis
+  - Machine Learning
+  - Model Evaluation & Validation
+  - Predictive Analytics
+  - Feature Importance Analysis  
+### Machine Learning Techniques
+  - Logistic Regression
+  - L1 (Lasso) Regularization
+  - L2 (Ridge) Regularization
+  - Random Forest Classification
+  - XGBoost Classification
+  - Cross-Validation
+  - Confusion Matrix Analysis
+  - ROC-AUC Analysis
+  - Permutation Importance
+### Libraries & Tools
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Scikit-learn
+  - XGBoost
+  - Jupyter Notebook
+  - Git & GitHub
+### Business & Analytical Skills
+  - Employee Attrition Analysis
+  - HR Analytics
+  - Workforce Planning
+  - Risk Identification
+  - Business Problem Solving
+  - Data-Driven Decision Making
+  - Insight Generation
+  - Recommendation Development
+
 ### Workflow
   - Data loading and quality assessment
   - Exploratory Data Analysis (EDA)
